@@ -1,3 +1,5 @@
+A Codecademy Project | This project was developed for the purpose of learning and guidance by the Codecademy platform.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
